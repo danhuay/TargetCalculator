@@ -1,5 +1,9 @@
 # Copyright:Danhua Yan, Jiajie Cen
 # 2017.8.7 Verson 2.0.0
+'''
+This app is aiming at helping researchers to calculate how many powders
+do you need to press a composite target.
+'''
 import re
 
 def split_input(input_name, grams):
